@@ -31,17 +31,17 @@ button_t buttons[] = {
   {2, 3}, //A
   {3, 4}, //X,
   {A0, 14}, //DPAD_UP
-  {A1, 15}, //DPAD_UP
-  {A2, 16}, //DPAD_UP
-  {A3, 17}, //DPAD_UP,
+  {A1, 15}, //DPAD_DOWN
+  {A2, 16}, //DPAD_LEFT
+  {A3, 17}, //DPAD_RIGHT
   {4, 5}, //LB
   {5, 6}, //LT
   {6, 7}, //RB
   {7, 8}, //RT
   {12, 13}, //MENU
-  {A8, 18}, //MUTE,
+  {A8, 18}, //MUTE
   {10, 11}, //VOL-
-  {11, 12}, //VOL+,
+  {11, 12}, //VOL+
   {8, 9}, //SELECT
   {9, 10} //START
 };
